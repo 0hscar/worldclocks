@@ -176,9 +176,6 @@ const App: React.FC = () => {
           ))}
         </tbody>
       </table>
-      <footer style={{ color: "#5c6773", marginBottom: "1rem" }}>
-        Powered by React &amp; TypeScript
-      </footer>
     </div>
   );
 };
